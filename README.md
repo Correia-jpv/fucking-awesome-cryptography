@@ -457,6 +457,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [CrypTool](http://www.cryptool-online.org/) - Great variety of ciphers, encryption methods and analysis tools are introduced, often together with illustrated examples.
 - 🌎 [CyberChef](gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 - [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 - 🌎 [keybase.io](keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
 
 ### Web-sites
